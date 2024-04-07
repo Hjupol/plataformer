@@ -1,0 +1,16 @@
+Player(7):
+	*Movement(speed)/
+	*Jump(force)/
+	*Colision with water
+	*The players cant push each other(?)
+	*Also: 	-child N°one can float
+		-child N°two can double jump
+		-child N°three can be used as a trampoline
+		-child N°fourth has inverted gravity
+Game Manager:
+	*Control the wincondition(With triggers)
+	*Set the player controlled/
+	*Restart the level/
+Camera:
+	*Follows the actual player/
+TODO:Personalizar cada personaje, solucionar lo de winconditions
